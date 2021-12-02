@@ -1,3 +1,4 @@
 node_modules/
 001/
 output/
+.DS_Store
